@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SailsNBountyCharacSheet</string>
+    <string name="weapons">weapons</string>
+    <string name="name">Nom</string>
+    <string name="comppp">Compétences passe partout</string>
+    <string name="compv">Compétences de vaisseau</string>
+    <string name="btnTxt">OK</string>
+    <string name="inventory">Objets Divers</string>
+    <string name="welcome">Bienvenue mécréants de toutes sortes !</string>
+    <string name="choose">Choisissez votre type de partie</string>
+    <string name="btnSf">Science Fiction</string>
+    <string name="btnCla">Classique</string>
+</resources>
